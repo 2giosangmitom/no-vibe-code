@@ -156,4 +156,4 @@ private:
   size_t _capacity;
 };
 
-#endif
+#endif // VEC_HH

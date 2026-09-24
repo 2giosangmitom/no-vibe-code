@@ -35,4 +35,4 @@ bool da_reserve(DynamicArray *a, size_t cap);
 
 bool da_shrink_to_fit(DynamicArray *a);
 
-#endif
+#endif // DYNAMIC_ARRAY_H
